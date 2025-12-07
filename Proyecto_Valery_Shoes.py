@@ -1,4 +1,3 @@
-# presentador_sql_valery.py
 import sqlite3
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -428,3 +427,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
